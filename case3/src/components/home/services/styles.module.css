@@ -1,0 +1,14 @@
+.colmd4 {
+  flex: 0 0 auto !important;
+  width: 33% !important;
+}
+.mt6 {
+  padding-top: 100px;
+}
+.box1 {
+  background-color: #f7f7f78a !important;
+  width: 23rem !important;
+  margin: auto;
+  height: 20rem !important;
+  border: none;
+}

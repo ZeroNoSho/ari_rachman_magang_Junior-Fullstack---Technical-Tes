@@ -1,0 +1,16 @@
+.color {
+  font-family: "Aboreto", cursive;
+  font-family: "Anek Telugu", sans-serif;
+  font-size: 30px;
+  color: #485fc7;
+  font-weight: 700;
+}
+
+@media (max-width: 800px) {
+  .color {
+    text-align: center;
+  }
+  .center {
+    text-align: center;
+  }
+}

@@ -1,0 +1,42 @@
+.color {
+  font-family: "Aboreto", cursive;
+  font-family: "Anek Telugu", sans-serif;
+  font-size: 30px;
+  color: #485fc7;
+  font-weight: 700;
+}
+.item {
+  font-size: 15px;
+  margin-left: 50px !important;
+  font-weight: 500;
+}
+.item2 {
+  font-size: 25px;
+  margin-left: 50px;
+  font-weight: 500;
+}
+.modalcontent1 {
+  width: auto !important;
+  margin: 0px !important;
+}
+@media (max-width: 800px) {
+  .item {
+    font-size: 15px;
+    margin-left: 0px !important;
+    font-weight: 500;
+  }
+  .item2 {
+    font-size: 25px;
+    margin-left: 0px;
+    font-weight: 500;
+  }
+  .block {
+    display: none;
+  }
+  .flex {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+  }
+}

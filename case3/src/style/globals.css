@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Aboreto&family=Anek+Telugu&display=swap");
+a {
+  text-decoration: none;
+}
+
+.tables {
+  border: none !important;
+  width: 100%;
+}
+
+.btn1 {
+  display: block !important;
+  margin: auto;
+}
+.tr {
+  padding-top: 20px;
+}
+.d-flex {
+  display: flex !important;
+}
+.row {
+  display: flex;
+  margin: auto !important;
+}
+
+.card :hover {
+  transform: none !important;
+}
+.button {
+  border-radius: 10px !important;
+}
+.titleBody {
+  display: block;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+.navbar-dropdown {
+  width: auto !important;
+  max-width: auto !important;
+  left: -300px !important;
+  border: none !important;
+  height: auto;
+}
+.navbar-dropdown p {
+  margin-right: 70px;
+}
+
+.columns {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  margin-top: -0.75rem;
+}
